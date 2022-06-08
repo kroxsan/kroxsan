@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kroxsan
 - 👀 I’m interested in doing projects and answering questions within my knowledge
 - 🌱 I’m currently learning python and will soon start learning C and arduino too
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking forward to collaborate on python projects
 - 📫 My e-mail adress is kroxsan@hotmail.com i check my mailbox frequently so feel free to reach out to me
 
 <!---
