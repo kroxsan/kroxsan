@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kroxsan
-- 👀 I’m interested in doing projects and answering questions within my knowledg
+- 👀 I’m interested in doing projects and answering questions within my knowledge
 - 📫 My e-mail adress is kroxsan@hotmail.com i check my mailbox frequently so feel free to reach out to me
 
 <!---
